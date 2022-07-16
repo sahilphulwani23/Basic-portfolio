@@ -4,6 +4,3 @@
 
 --In addition, anyone who wants to contact me can contact via contact me button at the bottom of the page.
 
-Website( Portfolio ) :
-
-
