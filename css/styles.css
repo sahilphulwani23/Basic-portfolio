@@ -54,7 +54,7 @@ p{
     object-fit: cover;
     position: absolute;
     /* position: fixed; */
-    right: 200px; 
+    right: 150px; 
     top: 20px; 
 }
 .cloud2{
@@ -63,7 +63,7 @@ p{
     object-fit: cover;
     position: absolute;
     /* position: fixed; */
-    left: 230px;
+    left: 180px;
     top: 100px;
 }
 .mid-section-img{
